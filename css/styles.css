@@ -4,7 +4,7 @@ body {
     background-color: #FFFFFF;
 }
 .logo_of_website {
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif,;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -22,11 +22,11 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.Studio_part_of_website :hover {
+.studio_part_of_website :hover {
     color: #404bbf;
 }
 
-.Studio_part_of_website :focus {
+.studio_part_of_website :focus {
     color: #404bbf;
 }
 address {
